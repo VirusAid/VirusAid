@@ -2,13 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-      Python & Full-Stack Developer
+
+        Python & Full-Stack Developer
 
 
 
 
 
-              Key Skills:
+                Key Skills:
 * Programming Languages: Python (Django, FastAPI, Flask), JavaScript (Node.js, React.js, Vue.js), CSS, HTML 
 * Frameworks and Libraries: Django, FastAPI, Express.js, Bootstrap, TailwindCSS
 * Databases: PostgreSQL, MySQL, MongoDB, SQLite
