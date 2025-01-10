@@ -22,12 +22,13 @@ Work Experience: Full-Stack Developer Global Web Solutions, Ukraine 
 March 2020 – Present 
 * Developed and maintained large-scale web applications using Python (Django, FastAPI) and Node.js. 
 * Created user interfaces with React.js and TailwindCSS. 
-* Implemented microservices architecture and integrated external APIs. \* Optimized frontend and backend performance. 
-* Designed advanced admin panels with dynamic graphs and analytics. Backend Developer Tech Solutions Ltd., Kharkiv, Ukraine June 2018 – February 2020 
+* Implemented microservices architecture and integrated external APIs.
+* Optimized frontend and backend performance. 
+  Designed advanced admin panels with dynamic graphs and analytics. Backend Developer Tech Solutions Ltd., Kharkiv, Ukraine June 2018 – February 2020 
 * Built high-load APIs for web applications using Django REST Framework and FastAPI.
 * Integrated payment systems (Stripe, PayPal). 
 * Worked with asynchronous tasks using Celery and RabbitMQ.
-* Deployed and maintained servers with Docker and CI/CD pipelines. Junior Full-Stack Developer Digital Horizons, Ukraine May 2016 – May 2018
+  Deployed and maintained servers with Docker and CI/CD pipelines. Junior Full-Stack Developer Digital Horizons, Ukraine May 2016 – May 2018
 * Participated in the development of internal information systems.
 * Built interactive interfaces using Vue.js and CSS. 
 * Integrated MongoDB for large-scale data storage. 
