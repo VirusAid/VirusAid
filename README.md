@@ -46,6 +46,11 @@ March 2020 – Present
  🧠  I'm learning Karazin University, Major: Information Security
  
  🤝  I'm open to collaborating on Interesting project
+
+
+[![IMG-2723.jpg](https://i.postimg.cc/FzqK7Dv1/IMG-2723.jpg)](https://postimg.cc/64rKPVyN)
+
+ 
  
  ⚡  Personal Qualities:
 *   Strong analytical skills
