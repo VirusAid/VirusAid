@@ -31,11 +31,17 @@ March 2020 – Present
 * Built interactive interfaces using Vue.js and CSS. 
 * Integrated MongoDB for large-scale data storage. 
 * Developed small APIs using Node.js for internal systems.
+  
  🌍  I'm based in Ukrainian 
+ 
  🖥️  See my portfolio at [My Portfolio](https://www.linkedin.com/in/vadim-kabannik-a3525b344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+ 
  ✉️  You can contact me at [Telegram](mailto:https://t.me/aid66633)
+ 
  🧠  I'm learning Karazin University, Major: Information Security
+ 
  🤝  I'm open to collaborating on Interesting project
+ 
  ⚡  Personal Qualities:
 *   Strong analytical skills
 *   Effective teamwork abilities
