@@ -32,6 +32,10 @@ March 2020 – Present
 * Built interactive interfaces using Vue.js and CSS. 
 * Integrated MongoDB for large-scale data storage. 
 * Developed small APIs using Node.js for internal systems.
+
+  [![IMG-2720.jpg](https://i.postimg.cc/wMYxh3PQ/IMG-2720.jpg)](https://postimg.cc/k6wdCM72)
+
+  
   
  🌍  I'm based in Ukrainian 
  
