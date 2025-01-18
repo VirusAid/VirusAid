@@ -9,6 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
+https://img.shields.io/pypi/pyversions/:packageName
 
                 Key Skills:
 * Programming Languages: Python (Django, FastAPI, Flask), JavaScript (Node.js, React.js, Vue.js), CSS, HTML 
