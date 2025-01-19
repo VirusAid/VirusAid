@@ -9,7 +9,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-https://img.shields.io/pypi/pyversions/:packageName
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#FF0000">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#FF0000">
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=#FF0000">
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=#FF0000">
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySql&logoColor=#FF0000">
+<img src="https://img.shields.io/badge/SqQLite-000000?style=for-the-badge&logo=SQLite&logoColor=#FF0000">
 
                 Key Skills:
 * Programming Languages: Python (Django, FastAPI, Flask), JavaScript (Node.js, React.js, Vue.js), CSS, HTML 
