@@ -94,8 +94,11 @@ reliable system behavior under unexpected conditions
 🎯 Engineering Principles
 
 ✔ Write clean and maintainable code
+
 ✔ Build systems that scale
+
 ✔ Focus on performance where it matters
+
 ✔ Prefer simple and reliable solutions
 
 📈 Interests
