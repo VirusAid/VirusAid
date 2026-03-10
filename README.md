@@ -4,78 +4,114 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![image.png](https://i.postimg.cc/3xDwc1w8/image.png)](https://postimg.cc/DSnFWqsH)
 
 
-        Python & Full-Stack Developer
+        Full-Stack Developer
 
 
 
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#FF0000">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#FF0000">
-<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=#FF0000">
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=#FF0000">
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySql&logoColor=#FF0000">
-<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=#FF0000">
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=#FF0000">
 
-                Key Skills:
-* Programming Languages: Python (Django, FastAPI, Flask), JavaScript (Node.js, React.js, Vue.js), CSS, HTML 
-* Frameworks and Libraries: Django, FastAPI, Express.js, Bootstrap, TailwindCSS
-* Databases: PostgreSQL, MySQL, MongoDB, SQLite
-* API: RESTfull API, GraphQL
-* DevOps Tools: Docker, Git, CI/CD (GitHub Actions, Jenkins)
-* Additional Skills: UI/UX development, external services integration, microservices architecture 
+💻 Senior Software Engineer (C++ / Python)
+🎓 Graduate of V. N. Karazin Kharkiv National University — Cybersecurity
+📍 27 years old
+⚙️ Focused on high-performance systems, backend infrastructure, and secure software development
 
-Work Experience: Full-Stack Developer Global Web Solutions, Ukraine  
-March 2020 – Present 
-* Developed and maintained large-scale web applications using Python (Django, FastAPI) and Node.js. 
-* Created user interfaces with React.js and TailwindCSS. 
-* Implemented microservices architecture and integrated external APIs.
-* Optimized frontend and backend performance.
-  
-  Designed advanced admin panels with dynamic graphs and analytics. Backend Developer Tech Solutions Ltd., Kharkiv, Ukraine June 2018 – February 2020 
-* Built high-load APIs for web applications using Django REST Framework and FastAPI.
-* Integrated payment systems (Stripe, PayPal). 
-* Worked with asynchronous tasks using Celery and RabbitMQ.
-  
-  Deployed and maintained servers with Docker and CI/CD pipelines. Junior Full-Stack Developer Digital Horizons, Ukraine May 2016 – May 2018
-* Participated in the development of internal information systems.
-* Built interactive interfaces using Vue.js and CSS. 
-* Integrated MongoDB for large-scale data storage. 
-* Developed small APIs using Node.js for internal systems.
+🚀 About Me
 
-  [![IMG-2720.jpg](https://i.postimg.cc/wMYxh3PQ/IMG-2720.jpg)](https://postimg.cc/k6wdCM72)
+I am a software engineer specializing in C++ and Python, with a strong interest in high-performance computing, backend systems, and secure architecture.
 
-  
-  
- 🌍  I'm based in Ukrainian 
- 
- 🖥️  See my portfolio at [My Portfolio](https://www.linkedin.com/in/vadim-kabannik-a3525b344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- 
- ✉️  You can contact me at [Telegram](mailto:https://t.me/aid66633)
- 
- 🧠  I'm learning Karazin University, Major: Information Security
- 
- 🤝  I'm open to collaborating on Interesting project
+My background in cybersecurity helps me approach system design with a focus on reliability, security, and efficiency. I enjoy solving complex engineering problems, optimizing systems under heavy load, and building software that remains stable even in demanding environments.
 
+I am particularly interested in areas where performance, concurrency, and system-level programming intersect.
 
-[![IMG-2723.jpg](https://i.postimg.cc/FzqK7Dv1/IMG-2723.jpg)](https://postimg.cc/64rKPVyN)
+🧠 Technical Stack
 
- 
- 
- ⚡  Personal Qualities:
-*   Strong analytical skills
-*   Effective teamwork abilities
-*   High adaptability to new technologies and challenges
-*   Attention to detail and systematic thinking
+⚙️ Core Skills
 
+Multithreading & Concurrency
+Network Programming
+Memory Management
+Performance Optimization
+Secure Software Development
 
-[![IMG-2733.gif](https://i.postimg.cc/9Ftt3m1d/IMG-2733.gif)](https://postimg.cc/w7MsLdCM)
+🛠 Tools & Technologies
 
+Linux 🐧
+Git
+Docker
+CMake
+GDB / Valgrind
+CI/CD pipelines
 
-  🤩 Skills  
+🧩 Complex Engineering Problems I Worked On
+⚡ High-Performance Data Processing System
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" width="36" height="36" alt="Remix" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> </p> 
-  👾 Socials  <p align="left"> <a href="https://www.github.com/VirusAid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/aid33_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vadim-kabannik-a3525b344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+Designed and implemented a C++ backend system capable of processing millions of events daily.
+
+Key challenges:
+
+building an efficient multithreaded processing pipeline
+reducing memory allocations and latency
+optimizing algorithms for high throughput
+profiling and eliminating performance bottlenecks
+Result: improved processing speed and significantly reduced CPU usage under heavy workloads.
+
+🌐 Concurrent Network Service
+
+Developed a high-load TCP service capable of handling thousands of simultaneous connections.
+
+Key work included:
+designing an asynchronous networking architecture
+optimizing connection handling
+reducing lock contention in multithreaded environments
+ensuring system stability under heavy traffic
+🐍 Backend Services & Automation
+Built backend tools and services using Python.
+
+Main responsibilities:
+designing internal APIs
+building automation tools and background workers
+integrating monitoring and logging
+improving reliability of internal systems
+
+🔬 Performance Optimization
+
+Worked on improving performance in existing systems where latency and efficiency were critical.
+
+Typical work included:
+analyzing bottlenecks with profiling tools
+optimizing CPU-intensive algorithms
+reducing unnecessary memory allocations
+improving cache efficiency
+
+🔐 Cybersecurity Background
+
+My university specialization in Cybersecurity helps me design systems with a strong focus on:
+secure architecture
+safe memory handling
+protection against common vulnerabilities
+reliable system behavior under unexpected conditions
+
+🎯 Engineering Principles
+
+✔ Write clean and maintainable code
+✔ Build systems that scale
+✔ Focus on performance where it matters
+✔ Prefer simple and reliable solutions
+
+📈 Interests
+
+High-performance systems
+System architecture
+Backend infrastructure
+Distributed systems
+Low-level programming
+
+🤝 Open to
+
+interesting engineering challenges
+collaboration with strong developers
+
+building complex and scalable systemssrcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
 
